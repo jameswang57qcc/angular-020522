@@ -1,3 +1,6 @@
-# angular-cv375q
+# Adding navigation
+# https://angular.io/start/start-routing
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-cv375q)
+![](screenshots/screenshot1.png)
+![](screenshots/screenshot2.png)
+![](screenshots/screenshot3.png)
