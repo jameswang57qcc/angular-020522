@@ -1,0 +1,13 @@
+<h2>Product Details</h2>
+
+<div *ngIf="product">
+  <h3>{{ product.name }}</h3>
+  <h4>{{ product.price | currency }}</h4>
+  <p>{{ product.description }}</p>
+</div>
+
+<!-- 
+  decorator modify DOM structure
+  if condition
+  | currency, pipe2 transform 2 currency string
+-->
