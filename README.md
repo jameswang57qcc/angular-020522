@@ -1,5 +1,5 @@
 # Adding navigation
-# https://angular.io/start/start-routing
+https://angular.io/start/start-routing
 
 URL paths, adding routes
 URL and route based display
